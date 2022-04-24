@@ -6,6 +6,7 @@ This program requires Java to compile and run.
 
 ## Credits
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+
 This program is based on Contacts on JetBrains Academy
 
 ## License
